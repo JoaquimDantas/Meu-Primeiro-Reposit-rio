@@ -6,7 +6,7 @@
 
 - [Pensamento Computacional](resumos/pensamentoComputacional.txt)
 
-- [Lógica de Programação](resumos/logicaProgramacao.txt)
+- [Lógica de Programação](resumos/logicaProgramacao.md)
 
 - Introdução ao Git e ao GitHub
 
