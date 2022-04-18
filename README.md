@@ -4,7 +4,7 @@
 
 ### Módulo I - Cursos Já Realizados
 
-- [Pensamento Computacional](resumos/pensamentoComputacional.txt)
+- [Pensamento Computacional](resumos/pensamentoComputacional.md)
 
 - [Lógica de Programação](resumos/logicaProgramacao.md)
 
